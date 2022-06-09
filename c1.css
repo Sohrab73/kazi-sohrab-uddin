@@ -77,3 +77,18 @@ button{
 .Contactbutton{
     padding-top: 90px;
 }
+.wallpaperi{
+    width: 60%;
+    display: block;
+    float: left;
+    padding-top: 3%;
+    padding-bottom:3% ;
+    padding-right: 20px;
+}
+.indexp{
+    font-style: italic;
+    font-size:x-large;
+    color:dimgray;
+    padding-top: 10%;
+    padding-left: 10px;
+}
